@@ -14,6 +14,9 @@ Esse é um aplicativo no qual eu posso controlar uma saida, no caso um LED. Por�
 1. Coloque o resistor de 1k na saida do pino D32 do ESP32 e ligue a outra ponta do resistor no Positvo do Led (Anodo)
 2. Coloque o negativo do Led no GND do ESP32 (Pode ser qualquer um dos GND)<br></br>
 
+# ESQUEMA ELÉTRICO (LINK)
+[Clique aqui para acessar o Esquema Elétrico](https://github.com/Paulo19961944/Led-Comando-Voz/blob/main/Esquema%20Eletrico%20-%20LED.png)
+
 # COMO UTILIZAR DE MANEIRA SIMPLES
 
 1. Acesse o Playstore
