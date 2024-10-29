@@ -15,7 +15,7 @@ Esse é um aplicativo no qual eu posso controlar uma saida, no caso um LED. Por�
 2. Coloque o negativo do Led no GND do ESP32 (Pode ser qualquer um dos GND)<br></br>
 
 # ESQUEMA ELÉTRICO (LINK)
-[Clique aqui para acessar o Esquema Elétrico](https://github.com/Paulo19961944/Led-Comando-Voz/blob/main/Esquema%20Eletrico%20-%20LED.png)
+[Clique aqui para acessar o Esquema Elétrico](https://github.com/Paulo19961944/Led-Comando-Voz/blob/main/Esquema%20Eletrico%20-%20LED.png)<br></br>
 
 # COMO UTILIZAR DE MANEIRA SIMPLES
 
